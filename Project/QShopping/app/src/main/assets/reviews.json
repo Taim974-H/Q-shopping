@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "rating": 3,
+    "title": "Was nice enough",
+    "text": "It was nice enough",
+    "authorId": 2,
+    "productId": 1
+  },
+  {
+    "id": 3,
+    "rating": 2,
+    "title": "Bad",
+    "text": "It was bad",
+    "authorId": 3,
+    "productId": 2
+  },
+  {
+    "id": 2,
+    "rating": 4,
+    "title": "Very good",
+    "text": "It was very nice",
+    "authorId": 2,
+    "productId": 2
+  }
+]

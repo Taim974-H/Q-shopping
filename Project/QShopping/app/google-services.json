@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613419036262",
+    "project_id": "qshopping-a593e",
+    "storage_bucket": "qshopping-a593e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613419036262:android:a94f4ed7860f9cf96747a7",
+        "android_client_info": {
+          "package_name": "com.team3.qshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613419036262-a2j7aqnqtb9o84fi5qtqgjcbcpbgp42h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGTiNoLRhGdstn_RI57GLI5rq3XRxlcnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613419036262-a2j7aqnqtb9o84fi5qtqgjcbcpbgp42h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

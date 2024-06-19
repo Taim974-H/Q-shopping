@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "addressLine": "QU Student Housing",
+    "city": "Doha",
+    "state": "Idk",
+    "country": "Qatar",
+    "zipCode": "2713",
+    "phoneNumber": "51234578",
+    "userId": 1
+  },
+  {
+    "id": 2,
+    "addressLine": "Somewhere",
+    "city": "Doha",
+    "state": "Idk",
+    "country": "Qatar",
+    "zipCode": "2913",
+    "phoneNumber": "50236987",
+    "userId": 2
+  }
+]

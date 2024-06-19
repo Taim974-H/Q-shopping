@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "fullName": "Mister Admin",
+    "userName": "admin",
+    "email": "admin@admin.com",
+    "password": "admin123",
+    "isAdmin": true
+  },
+  {
+    "id": 2,
+    "fullName": "Ahmad Ahmad",
+    "userName": "ahmadlol",
+    "email": "ahmad@ahmad.com",
+    "password": "ahmad123",
+    "isAdmin": false
+  },
+  {
+    "id": 3,
+    "fullName": "Ali Ali",
+    "userName": "lolali",
+    "email": "ali@ali.com",
+    "password": "ali123",
+    "isAdmin": false
+  }
+]

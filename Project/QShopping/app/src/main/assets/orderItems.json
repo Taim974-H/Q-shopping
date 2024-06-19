@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3,
+    "price": 9.85,
+    "quantity": 1,
+    "productId": 18,
+    "orderId": 2
+  },
+  {
+    "id": 4,
+    "price": 25.98,
+    "quantity": 2,
+    "productId": 20,
+    "orderId": 1
+  },
+  {
+    "id": 5,
+    "price": 119.97,
+    "quantity": 3,
+    "productId": 17,
+    "orderId": 1
+  }
+]

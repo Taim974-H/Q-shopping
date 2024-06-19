@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "status": "Shipping",
+    "timestamp": "2022-09-10T14:33:25.717",
+    "statusDate": "2022-10-02T14:33:25.717",
+    "userId": 2,
+    "addressLine": "72, That Street",
+    "city": "Doha",
+    "country": "Qatar",
+    "poBox": 2713,
+    "phoneNumber": 12345678,
+    "nameOnCard": "Ahmad Ahmad",
+    "cardNumber": 1234567890123456,
+    "cvv": 123,
+    "expiryYear": 2024,
+    "expiryMonth": 12
+  },
+  {
+    "id": 2,
+    "status": "Processing",
+    "timestamp": "2022-10-05T14:33:25.717",
+    "statusDate": "2022-10-05T14:33:25.717",
+    "userId": 3,
+    "addressLine": "27, This Street",
+    "city": "Doha",
+    "country": "Qatar",
+    "poBox": 2713,
+    "phoneNumber": 87654321,
+    "nameOnCard": "Ali Ali",
+    "cardNumber": 6543210987654321,
+    "cvv": 321,
+    "expiryYear": 2024,
+    "expiryMonth": 12
+  }
+]
