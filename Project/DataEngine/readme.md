@@ -76,15 +76,17 @@ This data engine generates mock data. It creates two main types of data:
 
 The number of records to generate can be configured in `main.py` by modifying the `n` parameter in `file_func_map`:
 
-## Workflow flowchart
-![image](https://github.com/user-attachments/assets/9fb14450-4270-45da-b1e2-314f2142ea7b)
-
-
-
 ```python
 file_func_map = {
     "data/users.json": partial(generate_users, n=50),
     "data/orders.json": partial(generate_orders, n=50)
 }
 ```
+
+## Workflow flowchart
+![image](https://github.com/user-attachments/assets/9fb14450-4270-45da-b1e2-314f2142ea7b)
+
+
+
+
 
